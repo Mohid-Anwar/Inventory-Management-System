@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Inventory Management System</h1>
 
-<p align="center"><img src="https://socialify.git.ci/Mohid-Anwar/Inventory-Management-System/image?description=1&amp;font=Jost&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Brick%20Wall&amp;theme=Auto" alt="project-image"></p>
+<p align="center"><img src="https://socialify.git.ci/Mohid-Anwar/Inventory-Management-System/image?language=1&name=1&owner=1&theme=Auto" alt="Inventory-Management-System" width="640" height="320" /></p>
 
 
 <h1>Welcome to Our Project!</h1>
