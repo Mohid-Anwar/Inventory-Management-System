@@ -66,7 +66,14 @@
 
 <h2>🛠️ Installation Steps:</h2>
 
-<p>Installation of Required Packages</p>
+<p>1. Clone the Repository</p>
+
+```
+git clone https://github.com/Mohid-Anwar/Inventory-Management-System.git
+```
+
+
+<p>2. Installation of Required Packages</p>
 
 ```
 pip install openpyxl
